@@ -1,1 +1,3 @@
-# WebDevAndTools-Info_6250
+# Webdev and tools
+
+This repo contains simple demo codes for understanding the concepts.
