@@ -21,6 +21,12 @@ Note: babel.config.js file should be in root directory of the file.
 
 ``npx babel src --out-dir public``
 
+# What happens when we run the above command
+    -It takes input from src file convert it to js supported by browser and put it in public directory
+
+# Running Babel
+    -Babel is often used with bundler like webpack
+
 
 
 
